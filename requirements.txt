@@ -1,0 +1,7 @@
+streamlit>=1.62
+pandas
+numpy
+scikit-learn
+openai
+python-dotenv
+pytest

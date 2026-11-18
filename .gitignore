@@ -1,0 +1,12 @@
+.venv/
+.env
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+data/accommodation_collection_cache.json
+data/cost_collection_cache.json
+*.pyc
+*.pyo
+*.db
+.idea/
+.vscode/

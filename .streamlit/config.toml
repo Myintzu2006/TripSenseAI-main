@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#08756F"
+backgroundColor = "#FBF8F2"
+secondaryBackgroundColor = "#EDF4F1"
+textColor = "#17312E"
+borderColor = "#D6E2DD"
+greenColor = "#2F7D68"
+orangeColor = "#B96F3A"
+blueColor = "#397C91"
+font = "'DM Sans':https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Manrope:https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&display=swap"
+baseFontSize = 16
+baseRadius = "16px"
+buttonRadius = "full"
+showWidgetBorder = true
+headingFontSizes = ["42px", "28px", "22px", "18px", "16px", "14px"]
+headingFontWeights = [800, 700, 700, 600, 600, 600]
+linkUnderline = false
+dataframeHeaderBackgroundColor = "#E4EFEB"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,163 @@
+destination,recommended_base,wikipedia_title,country,latitude,longitude,search_radius_km
+Bagan,Bagan,Bagan,Myanmar,21.172500,94.860000,8
+Inle Lake,Inle Lake,Inle Lake,Myanmar,20.550000,96.916667,8
+Yangon,Yangon,Yangon,Myanmar,16.795000,96.160000,8
+Mandalay,Mandalay,Mandalay,Myanmar,21.983056,96.084444,8
+Ngapali,Ngapali,Ngapali,Myanmar,18.433300,94.316700,8
+Hpa-An,Hpa-An,Hpa-an,Myanmar,16.890556,97.633333,8
+Bangkok,Bangkok,Bangkok,Thailand,13.752500,100.494167,8
+Chiang Mai,Chiang Mai,Chiang Mai,Thailand,18.795278,98.998611,8
+Phuket,Phuket,Phuket,Thailand,7.890000,98.398333,8
+Krabi,Krabi,Krabi,Thailand,8.059167,98.918889,8
+Ayutthaya,Ayutthaya,Ayutthaya,Thailand,14.349444,100.559444,8
+Pai,Pai,"Pai, Thailand",Thailand,19.358889,98.436667,8
+Chiang Rai,Chiang Rai,Chiang Rai,Thailand,19.909444,99.827500,8
+Koh Samui,Koh Samui,Koh Samui,Thailand,9.500000,100.000000,8
+Hanoi,Hanoi,Hanoi,Vietnam,21.000000,105.850000,8
+Ho Chi Minh City,Ho Chi Minh City,Ho Chi Minh City,Vietnam,10.775556,106.701944,8
+Hoi An,Hoi An,Hoi An,Vietnam,15.879722,108.331944,8
+Ha Long Bay,Hạ Long,Hạ Long,Vietnam,20.950000,107.083333,8
+Sapa,Sapa,Sa Pa,Vietnam,22.340556,103.830833,8
+Hue,Hue,Huế,Vietnam,16.463900,107.586700,8
+Da Nang,Da Nang,Da Nang,Vietnam,16.069444,108.209722,8
+Ninh Binh,Ninh Binh,Ninh Binh,Vietnam,20.250000,105.833333,8
+Siem Reap,Siem Reap,Siem Reap,Cambodia,13.362222,103.859722,8
+Phnom Penh,Phnom Penh,Phnom Penh,Cambodia,11.569444,104.921111,8
+Kampot,Kampot,Kampot,Cambodia,10.600000,104.166667,8
+Kep,Kep,"Kep, Cambodia",Cambodia,10.483333,104.300000,8
+Battambang,Battambang,Battambang,Cambodia,13.100000,103.200000,8
+Koh Rong,Koh Rong,Koh Rong,Cambodia,10.716667,103.250000,8
+Kuala Lumpur,Kuala Lumpur,Kuala Lumpur,Malaysia,3.147778,101.695278,8
+Penang,Penang,Penang,Malaysia,5.414444,100.329167,8
+Langkawi,Langkawi,Langkawi,Malaysia,6.350000,99.800000,8
+Cameron Highlands,Tanah Rata,Tanah Rata,Malaysia,4.466667,101.383333,8
+Malacca,Malacca,Malacca,Malaysia,2.200000,102.250000,8
+Kota Kinabalu,Kota Kinabalu,Kota Kinabalu,Malaysia,5.975000,116.072500,8
+Taman Negara,Kuala Tahan,Kuala Tahan,Malaysia,4.383333,102.400000,30
+Singapore City,Singapore City,Singapore City,Singapore,1.283333,103.833333,8
+Sentosa,Sentosa,Sentosa,Singapore,1.248000,103.830000,8
+Pulau Ubin,Changi Village,Changi Village,Singapore,1.383333,103.983333,8
+Mandai,"Mandai, Singapore",Singapore Zoo,Singapore,1.403782,103.794140,8
+Jakarta,Jakarta,Jakarta,Indonesia,-6.180000,106.830000,8
+Yogyakarta,Yogyakarta,Yogyakarta,Indonesia,-7.801389,110.364444,8
+Ubud,Ubud,Ubud,Indonesia,-8.506800,115.262600,8
+Seminyak,Seminyak,"Kuta, Bali",Indonesia,-8.733333,115.166667,8
+Uluwatu,Uluwatu,Uluwatu,Indonesia,-8.833333,115.083333,8
+Lombok,Mataram,Mataram,Indonesia,-8.583333,116.116667,8
+Bandung,Bandung,Bandung,Indonesia,-6.921846,107.607083,8
+Labuan Bajo,Labuan Bajo,Labuan Bajo,Indonesia,-8.500000,119.883333,8
+Manila,Manila,Manila,Philippines,14.595800,120.977200,8
+Cebu,Cebu,Cebu,Philippines,10.320000,123.750000,8
+El Nido,El Nido,El Nido,Philippines,11.180000,119.390000,8
+Coron,"Coron, Palawan","Coron, Palawan",Philippines,11.998000,120.205000,8
+Boracay,Boracay,Boracay,Philippines,11.968889,121.923889,8
+Bohol,Bohol,Bohol,Philippines,9.900000,124.200000,8
+Siargao,Siargao,Siargao,Philippines,9.905000,126.066667,8
+Tokyo,Tokyo,Tokyo,Japan,35.689722,139.692222,8
+Kyoto,Kyoto,Kyoto,Japan,35.011610,135.768110,8
+Osaka,Osaka,Osaka,Japan,34.693889,135.502222,8
+Nara,Nara,Nara,Japan,34.684444,135.805000,8
+Sapporo,Sapporo,Sapporo,Japan,43.061944,141.354444,8
+Okinawa,Naha,Naha,Japan,26.212222,127.679167,8
+Hiroshima,Hiroshima,Hiroshima,Japan,34.391389,132.451944,8
+Kanazawa,Kanazawa,Kanazawa,Japan,36.561056,136.656417,8
+Seoul,Seoul,Seoul,South Korea,37.560000,126.990000,8
+Busan,Busan,Busan,South Korea,35.180000,129.075000,8
+Jeju,Jeju,Jeju,South Korea,33.488889,126.498333,8
+Gyeongju,Gyeongju,Gyeongju,South Korea,35.850000,129.216667,8
+Jeonju,Jeonju,Jeonju,South Korea,35.823889,127.147500,8
+Sokcho,Sokcho,Sokcho,South Korea,38.206944,128.591944,8
+Vientiane,Vientiane,Vientiane,Laos,17.980000,102.630000,8
+Luang Prabang,Luang Prabang,Luang Prabang,Laos,19.890000,102.134722,8
+Kuang Si Falls,Luang Prabang,Luang Prabang,Laos,19.890000,102.134722,8
+Vang Vieng,Vang Vieng,Vang Vieng,Laos,18.926667,102.449444,8
+Nong Khiaw,Nong Khiaw,Nong Khiaw,Laos,20.571286,102.611456,8
+Dhaka,Dhaka,Dhaka,Bangladesh,23.764444,90.388889,8
+Bagerhat,Bagerhat,Bagerhat,Bangladesh,22.653000,89.792000,8
+Cox's Bazar,Cox's Bazar,Cox's Bazar,Bangladesh,21.427222,92.005000,8
+Sundarbans,Mongla,Mongla,Bangladesh,22.483333,89.608333,30
+Bandarban,Bandarban,Bandarban,Bangladesh,22.198000,92.220000,8
+Thimphu,Thimphu,Thimphu,Bhutan,27.472222,89.636111,8
+Punakha,Punakha,Punakha,Bhutan,27.583333,89.858333,8
+Phobjikha Valley,Gangteng Monastery,Gangteng Monastery,Bhutan,27.500000,90.166667,30
+Paro Taktsang,"Paro, Bhutan","Paro, Bhutan",Bhutan,27.433333,89.416667,8
+Bumthang,Bumthang,Bumthang,Bhutan,27.750000,90.666667,8
+Kathmandu,Kathmandu,Kathmandu,Nepal,27.710000,85.320000,8
+Pokhara,Pokhara,Pokhara,Nepal,28.208333,83.988889,8
+Everest Region,Namche Bazaar,Namche Bazaar,Nepal,27.816667,86.716667,30
+Everest Region,Lukla,Lukla,Nepal,27.688889,86.730556,30
+Chitwan,Chitwan,Chitwan,Nepal,27.583333,84.500000,8
+Lumbini,Lumbini,Lumbini,Nepal,27.750000,83.500000,8
+Colombo,Colombo,Colombo,Sri Lanka,6.934444,79.842778,8
+Kandy,Kandy,Kandy,Sri Lanka,7.293100,80.635000,8
+Ella,Ella,"Ella, Sri Lanka",Sri Lanka,6.875278,81.038333,8
+Galle,Galle,Galle,Sri Lanka,6.032778,80.215556,8
+Mirissa,Mirissa,Mirissa,Sri Lanka,5.945833,80.459722,8
+Delhi,Delhi,Delhi,India,28.610000,77.230000,8
+Mumbai,Mumbai,Mumbai,India,19.076111,72.877500,8
+Jaipur,Jaipur,Jaipur,India,26.915000,75.820000,8
+Goa,Goa,Goa,India,15.500000,73.830000,8
+Kerala,Kochi,Kochi,India,9.931194,76.267306,8
+Malé,Malé,Malé,Maldives,4.175278,73.508889,8
+Maafushi,Maafushi,Maafushi,Maldives,3.940278,73.488889,8
+North Malé Atoll,Hulhumalé,Hulhumalé,Maldives,4.216667,73.533333,8
+Ari Atoll,Mahibadhoo,Mahibadhoo,Maldives,3.757519,72.968611,8
+Addu Atoll,"Hithadhoo, Addu City","Hithadhoo, Addu City",Maldives,-0.600000,73.083333,8
+Beijing,Beijing,Beijing,China,39.906667,116.397500,8
+Shanghai,Shanghai,Shanghai,China,31.232500,121.469167,8
+Xi'an,Xi'an,Xi'an,China,34.261111,108.942222,8
+Guilin,Guilin,Guilin,China,25.275000,110.296000,8
+Chengdu,Chengdu,Chengdu,China,30.660000,104.063333,8
+Ulaanbaatar,Ulaanbaatar,Ulaanbaatar,Mongolia,47.921944,106.915278,8
+Karakorum,Kharkhorin,Kharkhorin,Mongolia,47.197222,102.823889,8
+Gobi Desert,Dalanzadgad,Dalanzadgad,Mongolia,43.570000,104.425833,30
+Lake Khuvsgul,Khatgal,Khatgal,Mongolia,50.439444,100.161667,30
+Altai Tavan Bogd,Ölgii (city),Ölgii (city),Mongolia,48.968333,89.968611,30
+Taipei,Taipei,Taipei,Taiwan,25.037500,121.562500,8
+Taroko Gorge,Hualien City,Hualien City,Taiwan,23.972222,121.606389,8
+Tainan,Tainan,Tainan,Taiwan,22.990000,120.185000,8
+Kenting,Hengchun,Hengchun,Taiwan,22.000000,120.750000,8
+Sun Moon Lake,Sun Moon Lake,Sun Moon Lake,Taiwan,23.866667,120.916667,8
+Bandar Seri Begawan,Bandar Seri Begawan,Bandar Seri Begawan,Brunei,4.890278,114.942222,8
+Kampong Ayer,Kampong Ayer,Kampong Ayer,Brunei,4.882500,114.942500,8
+Ulu Temburong National Park,"Bangar, Brunei","Bangar, Brunei",Brunei,4.708600,115.073900,30
+Muara Beach,"Muara, Brunei","Muara, Brunei",Brunei,5.026800,115.069300,8
+Jerudong,Jerudong,Jerudong,Brunei,4.937300,114.841900,8
+Dili,Dili,Dili,Timor-Leste,-8.553611,125.578333,8
+Atauro Island,Vila Maumeta,Vila Maumeta,Timor-Leste,-8.267807,125.603248,8
+Baucau,Baucau,Baucau,Timor-Leste,-8.462778,126.453611,8
+Mount Ramelau,Hato-Udo,Hato-Udo,Timor-Leste,-9.116667,125.600000,30
+Jaco Island,Tutuala,Tutuala,Timor-Leste,-8.392900,127.256700,30
+Hong Kong - Central,"Central, Hong Kong","Central, Hong Kong",Hong Kong,22.281944,114.158056,8
+Kowloon / Tsim Sha Tsui,Tsim Sha Tsui,Tsim Sha Tsui,Hong Kong,22.293889,114.171111,8
+Lantau / Big Buddha,Tung Chung,Tung Chung,Hong Kong,22.289300,113.941600,8
+Sai Kung / Geopark,Sai Kung Town,Sai Kung Town,Hong Kong,22.381400,114.273330,8
+Stanley / Cheung Chau,"Stanley, Hong Kong","Stanley, Hong Kong",Hong Kong,22.216667,114.216667,8
+Stanley / Cheung Chau,Cheung Chau,Cheung Chau,Hong Kong,22.210556,114.028889,8
+Macau Historic Centre,Macau Historic Centre,Macau Historic Centre,Macau,22.191292,113.536461,8
+Coloane,Coloane,Coloane,Macau,22.126111,113.566944,8
+Taipa Village,Taipa Village,Taipa Village,Macau,22.159720,113.559440,8
+Cotai Strip,Cotai Strip,Cotai Strip,Macau,22.140556,113.563056,8
+Almaty (Kazakhstan),Almaty (Kazakhstan),Almaty (Kazakhstan),Kazakhstan,43.232778,76.975833,8
+Astana (Kazakhstan),Astana (Kazakhstan),Astana (Kazakhstan),Kazakhstan,51.133333,71.433333,8
+Charyn Canyon,"Saty, Kazakhstan","Saty, Kazakhstan",Kazakhstan,43.069110,78.409080,30
+Bishkek,Bishkek,Bishkek,Kyrgyzstan,42.874722,74.612222,8
+Issyk-Kul,Cholpon-Ata,Cholpon-Ata,Kyrgyzstan,42.650000,77.083333,8
+Karakol,Karakol,Karakol,Kyrgyzstan,42.490278,78.391667,8
+Osh,Osh,Osh,Kyrgyzstan,40.530000,72.800000,8
+Song-Kul,Kochkor,Kochkor,Kyrgyzstan,42.215833,75.755556,30
+Samarkand,Samarkand,Samarkand,Uzbekistan,39.650556,66.965278,8
+Bukhara,Bukhara,Bukhara,Uzbekistan,39.766667,64.423056,8
+Khiva,Khiva,Khiva,Uzbekistan,41.381389,60.361111,8
+Tashkent,Tashkent,Tashkent,Uzbekistan,41.311111,69.279722,8
+Dushanbe,Dushanbe,Dushanbe,Tajikistan,38.536667,68.780000,8
+Pamir Highway,Khorugh,Khorugh,Tajikistan,37.483333,71.550000,30
+Iskanderkul Lake,Panjakent,Panjakent,Tajikistan,39.500000,67.616667,30
+Ashgabat,Ashgabat,Ashgabat,Turkmenistan,37.937500,58.380000,8
+Darvaza Gas Crater,Darvaza Gas Crater,Darvaza Gas Crater,Turkmenistan,40.252500,58.439600,30
+Merv,Merv,Merv,Turkmenistan,37.662778,62.192500,8
+Yangykala Canyon,Balkanabat,Balkanabat,Turkmenistan,39.516667,54.366667,30
+Tbilisi,Tbilisi,Tbilisi,Georgia,41.722500,44.792500,8
+Kazbegi,Kazbegi,Kazbegi,Georgia,42.657500,44.645278,8
+Svaneti,Svaneti,Svaneti,Georgia,42.916389,43.011389,8
+Batumi,Batumi,Batumi,Georgia,41.645833,41.641667,8
