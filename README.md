@@ -300,3 +300,21 @@ python -m pytest
    ```
 
 ---
+
+## 8. Team Members & Individual Contributions
+
+This project was collaboratively developed by five team members as part of the CST_4104 Artificial Intelligence course at the University of Information Technology (UIT), Yangon, Myanmar.
+
+Each team member contributed to a specific area of the system, including AI development, machine learning, user interface design, data management, and system testing.
+
+| No. | Team Member | Roles & Responsibilities |
+|:---:|---|---|
+| 1 | **Phyo Khant Kywal** | Developed natural-language preference parsing, the destination chatbot, evidence processing, and Prolog knowledge-base rules. |
+| 2 | **Myintzu Khaing** | Designed the Streamlit pages, navigation, responsive interface, and Asia-themed user interface (UI). |
+| 3 | **Eaint Hmue Nge** | Implemented quarter-circle preference encoding, weighted cosine-similarity matching, evidence-based affordability filtering, and Vector Space Machine Learning. |
+| 4 | **Ye Lin Aung** | Developed preference normalization, region/country filtering, and validation of user inputs. |
+| 5 | **Yan Myo Aung** | Collected and structured destination data, verified cost and accommodation sources, tested system features, and supported deployment. |
+
+### Team Collaboration
+
+All five members contributed to the development of TripSense AI through their respective responsibilities. Their combined efforts brought together machine learning, symbolic AI, generative AI, data processing, and web application development.
