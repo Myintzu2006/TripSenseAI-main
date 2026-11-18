@@ -300,13 +300,3 @@ python -m pytest
    ```
 
 ---
-
-## 8. Summary for Teammates & Viva Presentation
-
-When presenting this project to your professor or classmates, highlight these **5 key technical accomplishments**:
-
-1. **Dual AI Paradigm:** Not just a wrapper around an LLM; it combines classical symbolic AI (Prolog Horn clauses) with modern sub-symbolic machine learning (Vector Space Model) and Generative AI (Gemini).
-2. **Mathematically Sound Vector Encoding:** Resolved the scalar collapse issue under cosine similarity by engineering a **2D quarter-circle trigonometric mapping** for 1–5 ordinal preferences.
-3. **Data Integrity & Ground Spending:** Uses real-world benchmarks (`destination_costs.csv`, `accommodations.csv`) with transparent confidence ratings rather than hallucinated price figures.
-4. **Stateful Web Architecture:** Built on modern Streamlit with SQLite persistence, session recovery via query parameters, modal authentication dialogs, and protected AI endpoints.
-5. **Quality Assurance:** Backed by 33 comprehensive unit tests ensuring zero regressions in math, authentication, and generative fallbacks.
